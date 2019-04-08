@@ -1,5 +1,13 @@
 {
   "name": "BlankGitPod",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.0"
+  }
 }
