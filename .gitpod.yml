@@ -3,7 +3,7 @@ tasks:
       bundle install &&
       yarn &&
       bundle exec rake db:migrate &&
-      git checkout -b experiment-1 &&
+      git checkout -b experiment-1
     command:
       bundle exec foreman start
 ports:
