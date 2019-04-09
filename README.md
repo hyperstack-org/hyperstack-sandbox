@@ -1,7 +1,7 @@
 # Welcome to the Hyperstack Sandbox
 
 This a Hyperstack project *sandbox* with everything you need
-to get started, running Hyperstack in the incredible [GitPod cloud IDE](https://gitpod.io).
+to get started running Hyperstack in the incredible [GitPod cloud IDE](https://gitpod.io).
 
 Simply click this link to launch the project in gitpod.  
 
