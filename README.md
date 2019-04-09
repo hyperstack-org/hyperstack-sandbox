@@ -5,7 +5,7 @@ to get started, running Hyperstack in the incredible [GitPod cloud IDE](https://
 
 Simply click this link to launch the project in gitpod.  
 
-[Launch Now In GitPod](https://gitpod.io/#https://github.com/hyperstack-org/blank-gitpod)
+[Launch Now In GitPod](https://gitpod.io/#https://github.com/hyperstack-org/hyperstack-sandbox)
 
 Once launched, the project will install all the needed software,
 and in a few minutes you can type:
