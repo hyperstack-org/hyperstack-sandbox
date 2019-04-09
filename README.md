@@ -1,24 +1,40 @@
-# README
+# Welcome to Hyperstack
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a Hyperstack project *sandbox* with everything you need
+to get started, running Hyperstack in the incredible [GitPod cloud IDE](https://gitpod.io).
 
-Things you may want to cover:
+Simply click this link to launch the project in gitpod.  
 
-* Ruby version
+[Launch Now In GitPod](https://gitpod.io/#https://github.com/hyperstack-org/blank-gitpod)
 
-* System dependencies
+Once launched, the project will install all the needed software,
+and in a few minutes you can type:
 
-* Configuration
+`bundle exec foreman start` 
 
-* Database creation
+in the terminal window.
 
-* Database initialization
+You will see you App come up in the preview window.
+The first load is a bit slow as all your resources are
+compiled, so be patient.
 
-* How to run the test suite
+Once you are up find the `app/hyperstack/components/app.rb` file and change the greeting string
+from 
+`"Hello world from Hyperstack and Gitpod!"` to something of your choice,
+and you should see the preview updated.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Forking the Repo
 
-* Deployment instructions
+GitPod clones and then continously backs up a copy of the sandbox in your Github account, so for most experiments you don't
+need to do anything else.  You can for example create new branches for different experiments etc. 
 
-* ...
+However you may want to Fork your own copy of this repo, which is fine.  The only thing you will need to do is to
+point to your new repo when launching GitPod:
+
+`https://gitpod.io/#https://github.com/...your repo name here...`
+
+For ease of use you may want to update the link at the top of this readme when you fork.  That's it.
+
+## Using your own workstation instead of GitPod
+
+If you want to use your own workstation for development then simply follow the standard [Hyperstack install instructions.](https://github.com/hyperstack-org/hyperstack/tree/edge/install)
