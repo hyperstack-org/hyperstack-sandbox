@@ -27,7 +27,7 @@ and you should see the preview updated.
 
 ## Forking the Repo
 
-GitPod clones and then continously backs up a copy of the sandbox in your Github account, so for most experiments you don't
+GitPod clones and then continously backs up a copy of the sandbox, so for most experiments you don't
 need to do anything else.  You can for example create new branches for different experiments etc.
 
 In fact to make this easy, the repo is initialized with a master branch, and an experiment-1 branch.  Keep master as a clean backup
