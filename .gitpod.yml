@@ -1,0 +1,18 @@
+tasks:
+  - init:
+      bundle install &&
+      yarn &&
+      bundle exec rake db:reset
+    command:
+      bundle exec foreman start
+ports:
+  - port: 5000
+    onOpen: open-browser
+  - port: 3000
+    onOpen: open-browser
+  - port: 9514
+    onOpen: ignore
+  - port: 9515
+    onOpen: ignore
+  - port: 25222
+    onOpen: ignore
