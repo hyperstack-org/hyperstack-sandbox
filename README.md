@@ -12,16 +12,16 @@ and in a few minutes you will see your App come up in the preview window.
 The first load is a bit slow as all your resources are
 compiled, so be patient.
 
-Once the preview is up find the
-`  app/hyperstack/components/app.rb`
-file and change the greeting string from
-`  "Hello world from Hyperstack and Gitpod!"`
+Once the preview is up find the `  app/hyperstack/components/app.rb` file
+
+and change the greeting string from `"Hello world from Hyperstack and Gitpod!"`
+
 to something of your choice, save the file (CTRL/CMD-s)
 and you should see the preview updated.
 
 * To stop the application type ctrl-c.
 * To restart the app type `bundle exec foreman start`
-* To open a new terminal console look for the tiny square icon on the far right of the terminal area.
+* Use the terminal menu (in the Nav bar) to create a new terminal window.
 * To run a rails console open a new console and type `bundle exec rails c`
 * Initially you will be in the `experiment-1` branch, so you can always go back to `master` if needed.
 
