@@ -1,4 +1,4 @@
-# Welcome to Hyperstack
+# Welcome to the Hyperstack Sandbox
 
 This a Hyperstack project *sandbox* with everything you need
 to get started, running Hyperstack in the incredible [GitPod cloud IDE](https://gitpod.io).
