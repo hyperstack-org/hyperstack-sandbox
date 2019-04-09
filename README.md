@@ -3,7 +3,7 @@
 This a Hyperstack project *sandbox* with everything you need
 to get started running Hyperstack in the incredible [GitPod cloud IDE](https://gitpod.io).
 
-Simply click this link to launch the project in gitpod.  
+Simply click this link to launch the project in gitpod:  
 
 [Launch Now In GitPod](https://gitpod.io/#https://github.com/hyperstack-org/hyperstack-sandbox)
 
@@ -14,13 +14,13 @@ and in a few minutes you can type:
 
 in the terminal window.
 
-You will see you App come up in the preview window.
+You will see your App come up in the preview window.
 The first load is a bit slow as all your resources are
 compiled, so be patient.
 
-Once you are up find the `app/hyperstack/components/app.rb` file and change the greeting string
+Once the preview is up find the `app/hyperstack/components/app.rb` file and change the greeting string
 from 
-`"Hello world from Hyperstack and Gitpod!"` to something of your choice,
+`"Hello world from Hyperstack and Gitpod!"` to something of your choice, save the file (CTRL/CMD-s)
 and you should see the preview updated.
 
 ## Forking the Repo
